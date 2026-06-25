@@ -184,7 +184,7 @@ This project is licensed under the **MIT License**.
 
 
 
-<video src ="https://github.com/user-attachments/assets/f58f7300-80e9-42a6-8fa2-059fd6b42032" autoplay loop muted playsinline style="max-width: 100%;"></video>
+<video src ="https://github.com/user-attachments/assets/f58f7300-80e9-42a6-8fa2-059fd6b42032" autoplay="" loop="" muted="" playsinline="" style="width: 100%"></video>
 
 
 
